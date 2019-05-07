@@ -1,0 +1,24 @@
+Setup a pairing station!!!
+Have a better presentation for the end of the day.
+    - Code we wrote
+    - Song we composed
+    - How we worked
+Run more structured retrospective after each sprint
+Run a final retrospective
+Record your own voice didn't work the best... probably should stick with the stock samples
+Have a simple composition that combines a beat, bass, chorus and lead
+Play sample electronic music for inspiration
+Have extra bonus material for students that need more.
+Clean up current code examples to make them clearer.
+Understand Live Loops better.
+Run Sonic Pi from the command line if you don't have admin rights.
+
+
+Good Cycle
+    Standup - 5 minutes
+    Code - 25 minutes
+    Show-n-Tell - 10 minutes
+    Retro - 10 minutes
+    Break
+
+Physicial Kanban Board
