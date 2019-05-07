@@ -1,0 +1,6 @@
+FX Baby
+Define the FX, set it to a variable and send it into the code block
+Using Help to find different FX and Synths to try
+And finding all the parameters to change
+:ixi_techno
+Leading Zeros for decimal number eg. 0.5 and not just .5

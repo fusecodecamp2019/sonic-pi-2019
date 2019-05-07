@@ -1,0 +1,10 @@
+Save
+Retro
+
+BPM = Beats per minute
+Loops
+    Live Loops
+    Inner Loops (do this x times)
+Sample = Digital Recording
+zzz Sleepy time - Computer is going to do things as fast as it can
+# Comments

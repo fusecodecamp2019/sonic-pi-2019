@@ -1,0 +1,10 @@
+beat_stretch:rrand(5, 10)
+
+# Welcome to Sonic Pi v2.10
+
+mySamples = "/Users/jeffrey.norder/dump"
+use_bpm 120
+live_loop :norder do
+  sample mySamples, "check", beat_stretch:rrand(5, 10)
+  sleep 2
+end
